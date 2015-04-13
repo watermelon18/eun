@@ -1,2 +1,2 @@
 print ('a wonderful journey')
-print('the following address ahd phone number')
+print ('the following address ahd phone number')
